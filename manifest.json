@@ -1,0 +1,35 @@
+{
+  "vendor": "beightone",
+  "name": "addi-product-page-infos",
+  "version": "0.0.1",
+  "title": "Addi Product Page Infos",
+  "description": "ADDI product page app to include infos about the installments payment method.",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "store": "0.x"
+  },
+  "dependencies": {
+    "vtex.store": "2.x",
+    "vtex.apps-graphql": "3.x",
+    "vtex.product-context": "0.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "settingsSchema": {
+    "title": "Addi",
+    "type": "object",
+    "properties": {
+      "allySlug": {
+        "title": "Ally Slug",
+        "description": "Enter your ally-slug",
+        "type": "string",
+        "access": "public"
+      }
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
