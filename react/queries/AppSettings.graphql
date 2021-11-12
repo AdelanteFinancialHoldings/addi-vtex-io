@@ -1,5 +1,5 @@
 query AppSettings($version: String) {
-  appSettings(app: "beightone.addi-product-page-infos", version: $version)
+  appSettings(app: "addi.addi-product-page-infos", version: $version)
     @context(provider: "vtex.apps-graphql") {
     message
   }

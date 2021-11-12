@@ -21,9 +21,9 @@ And a good code editor like a [VSCode](https://code.visualstudio.com/)
 
 ### How to install
 
-$ git clone <https://github.com/beightone/addi.product-page-action.git>
+$ git clone <https://github.com/AdelanteFinancialHoldings/addi-vtex-io.git>
 
-$ cd addi.product-page-action.git
+$ cd addi-vtex-io.git
 
 $ vtex login {{vtexAccountName}}
 
