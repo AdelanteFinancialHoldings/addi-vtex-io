@@ -16,4 +16,5 @@ export const useAppSettings = ({ version }: AppSettingsData) =>
       version,
     },
     ssr: false,
+    fetchPolicy: "network-only"
   })

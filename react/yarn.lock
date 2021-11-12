@@ -1878,10 +1878,6 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
-"beightone.addi-product-page-infos@https://staging--beightone.myvtex.com/_v/private/typings/linked/v1/beightone.addi-product-page-infos@0.0.1+build1624639197/public/@types/beightone.addi-product-page-infos":
-  version "0.0.1"
-  resolved "https://staging--beightone.myvtex.com/_v/private/typings/linked/v1/beightone.addi-product-page-infos@0.0.1+build1624639197/public/@types/beightone.addi-product-page-infos#290f62deb689678025e6a9a61d79d5e8d50ab085"
-
 brace-expansion@^1.1.7:
   version "1.1.11"
   resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.11.tgz#3c7fcbf529d87226f3d2f52b966ff5271eb441dd"
@@ -4977,17 +4973,21 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-"vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.9.9/public/@types/vtex.product-context":
-  version "0.9.9"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.9.9/public/@types/vtex.product-context#d9619a3365c1b04c1110c4beb11a53eae39aac75"
+"vtex.apps-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.apps-graphql@3.12.1/public/@types/vtex.apps-graphql":
+  version "3.12.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.apps-graphql@3.12.1/public/@types/vtex.apps-graphql#5e6ab3c2fa3d154d11798d6243585056bd2f7711"
 
-"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.129.0/public/@types/vtex.render-runtime":
-  version "8.129.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.129.0/public/@types/vtex.render-runtime#76dd55634b06288d8209d5b85ca26b6f6692a889"
+"vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context":
+  version "0.10.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context#c5e2a97b404004681ee12f4fff7e6b62157786cc"
 
-"vtex.store@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store@2.119.0/public/@types/vtex.store":
-  version "2.119.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store@2.119.0/public/@types/vtex.store#ddf948f82cf7180e334b0a3d50f9c6ab520760bb"
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.131.0/public/@types/vtex.render-runtime":
+  version "8.131.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.131.0/public/@types/vtex.render-runtime#dcc88828e3d65ecb4e7538a3623a4b1ddd77e034"
+
+"vtex.store@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store@2.120.0/public/@types/vtex.store":
+  version "2.120.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store@2.120.0/public/@types/vtex.store#62930c752742172a6b3e545726feffbade76f3bd"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"
