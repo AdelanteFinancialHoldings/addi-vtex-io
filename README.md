@@ -1,4 +1,4 @@
-![Arcelor Mittal](https://partnernetwork.vtexassets.com/arquivos/ids/155500-800-auto?width=800&height=auto&aspect=true)
+![Arcelor Mittal](https://co.addi.com/hubfs/icon-app-addi-1.svg)
 
 ## Product Page Addi Installments Infos - VTEX IO
 
@@ -21,9 +21,9 @@ And a good code editor like a [VSCode](https://code.visualstudio.com/)
 
 ### How to install
 
-$ git clone <https://github.com/beightone/addi.product-page-action.git>
+$ git clone <https://github.com/AdelanteFinancialHoldings/addi-vtex-io.git>
 
-$ cd addi.product-page-action.git
+$ cd addi-vtex-io.git
 
 $ vtex login {{vtexAccountName}}
 
