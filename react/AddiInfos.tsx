@@ -114,7 +114,7 @@ function AddiInfos() {
       setCustomData(data)
 
       setCustomData({
-        sourceUrl: `https://s3.amazonaws.com/statics.addi.com/vtex/js/vtex-${locatedBrazil}-widget-wrapper.bundle.min.js`,
+        sourceUrl: `https://s3.amazonaws.com/widgets.addi.com/bundle.min.js`,
         locatedBrazil: locatedBrazil,
         style: data,
         allySlug: allySlug,
