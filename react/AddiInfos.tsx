@@ -17,7 +17,7 @@ function AddiInfos() {
   const [price, setPrice] = useState(0);
 
   useEffect(() => {
-    console.log("script addi-v2 carregou....")
+    //console.log("script addi-v2")
     const selectedItem = productContext?.selectedItem
     const seller: any = selectedItem?.sellers[0]
 
