@@ -1,4 +1,4 @@
-![Arcelor Mittal](https://partnernetwork.vtexassets.com/arquivos/ids/155500-800-auto?width=800&height=auto&aspect=true)
+![Arcelor Mittal](https://my.corebook.io/_vcxEOjVZlY5hSiTG9UTkGh4aRZw3JTKA/visual-identity/logo)
 
 ## Product Page Addi Installments Infos - VTEX IO
 

@@ -1,9 +1,9 @@
 {
   "name": "product-page-action",
   "vendor": "addi",
-  "version": "1.0.1",
-  "title": "Addi Product Page Infos",
-  "description": "ADDI product page app to include infos about the installments payment method.",
+  "version": "1.0.2",
+  "title": "Addi Product Page Widget",
+  "description": "Addi product page app to include infos about the installments payment method.",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
@@ -25,7 +25,7 @@
     {
       "name": "outbound-access",
       "attrs": {
-        "host": "https://channels-public-api.addi.com.br/allies/addibr/config?requestedAmount=270",
+        "host": "https://channels-public-api.addi.com/allies/adelante/config?requestedAmount=65000",
         "path": "*"
       }
     }
